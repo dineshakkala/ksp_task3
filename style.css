@@ -1,0 +1,17 @@
+p{
+    color: red;
+    font-family:monospace;
+    font-size: 40px;
+    
+}
+h1{
+    color: aquamarine;
+    font-size: 30;
+    font-family: fantasy;
+}
+body{
+    color: lawngreen;
+}
+table,th,td{
+    border: 3px double red;
+}
